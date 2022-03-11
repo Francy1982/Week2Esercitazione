@@ -1,0 +1,14 @@
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.csproj.AssemblyReference.cache
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\Francesca\Desktop\Academy\Week2Esercitazione\ConsoleApp1\obj\Debug\netcoreapp3.1\Agenda.genruntimeconfig.cache
